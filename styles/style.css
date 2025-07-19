@@ -181,4 +181,10 @@ body {
     .elementos__secao{
         width: auto;
     }
+    .elementos__foto{
+            width: 50%; /* Defina a largura desejada */
+  height: 50%; /* Defina a altura desejada */
+  border-radius: 50%; /* Torna a imagem circular */
+  border: 10px solid var(--cor-secundaria);
+    }
 }
